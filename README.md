@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # Sentence Embeddings and Automatic Classification of Menu Items
 
 This is my Bachelor Thesis at the Department of Computer Science at Uppsala University. All code is run in Google Colab notebooks. 
